@@ -30,28 +30,30 @@ public class ArraysAndMethods {
 		
 		
 		
+		//write and test a method that takes a String name and prints out a greeting, this method returns nothing
+		
+		//write and test a method that takes a String name and returns a greeting, do not print in the method
+		
+		//analyze the difference between these two methods - what do you find? How are they different?
+		
+		//write and test a method that takes a String and an int and returns true if the number of letters in the string is greater than the int
+		
+		//write and test a method that takes an array of string and a string and returns true if the string passed in exists in the array
+		
+		//write and test a method that takes an array of int and returns the smallest number in the array
+		
+		//write and test a method that takes an array of double and returns the average
+		
+		//write and test a method that takes an array of Strings and returns an array of int where each element
+		//matches the length of the string at that position
+		
+		//write and test a method that takes an array of strings and returns true if the sum of letters for all strings with an 
+		//even amount of letters is greater than the sum of those with an odd amount of letters.
+		
+		//write and test a method that takes a string and returns true if the string is a palindrome
+		
 	}
 	
-	//write and test a method that takes a String name and prints out a greeting, this method returns nothing
 	
-	//write and test a method that takes a String name and returns a greeting, do not print in the method
-	
-	//analyze the difference between these two methods - what do you find? How are they different?
-	
-	//write and test a method that takes a String and an int and returns true if the number of letters in the string is greater than the int
-	
-	//write and test a method that takes an array of string and a string and returns true if the string passed in exists in the array
-	
-	//write and test a method that takes an array of int and returns the smallest number in the array
-	
-	//write and test a method that takes an array of double and returns the average
-	
-	//write and test a method that takes an array of Strings and returns an array of int where each element
-	//matches the length of the string at that position
-	
-	//write and test a method that takes an array of strings and returns true if the sum of letters for all strings with an 
-	//even amount of letters is greater than the sum of those with an odd amount of letters.
-	
-	//write and test a method that takes a string and returns true if the string is a palindrome
 
 }
